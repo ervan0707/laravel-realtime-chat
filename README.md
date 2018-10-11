@@ -1,4 +1,4 @@
-# laravel-chat
+# laravel-realtime-chat
 
 Building a Realtime Chat App with Laravel, VueJS and Pusher
 
